@@ -1,0 +1,8 @@
+<resources>
+    <color name="gaida_bg">#F2F4F1</color>
+    <color name="gaida_accent">#9B2C2C</color>
+    <style name="Theme.Gaida" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/gaida_bg</item>
+        <item name="android:colorAccent">@color/gaida_accent</item>
+    </style>
+</resources>
